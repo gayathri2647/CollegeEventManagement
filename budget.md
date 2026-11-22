@@ -16,12 +16,12 @@
 
 | Expense Category | Actual Amount |
 |---|---:|
-| Stage Decoration | Pending |
-| Sound System | Pending |
-| Certificates and Prizes | Pending |
-| Refreshments | Pending |
-| Banner and Printing | Pending |
-| Miscellaneous | Pending |
+| Stage Decoration | 5000 |
+| Sound System | 1500|
+| Certificates and Prizes | 1000 |
+| Refreshments | 3000 |
+| Banner and Printing | 800 |
+| Miscellaneous | 1350 |
 
 ## Funding Sources
 - College Management
@@ -31,4 +31,4 @@
 ## Budget Status
 Estimated Total Budget: Rs. 15,000
 
-Actual Total Budget: To be updated after the event.
+Actual Total Budget: Rs. 12,650.
